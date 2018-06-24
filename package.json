@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pangolino91/my-trial-folder/issues"
   },
-  "homepage": "https://github.com/Pangolino91/my-trial-folder#readme"
+  "homepage": "https://github.com/Pangolino91/my-trial-folder#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
